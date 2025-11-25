@@ -44,8 +44,8 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhwanil1907/dhwanil1907/output/contribution-snake-dark.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/dhwanil1907/dhwanil1907/output/contribution-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhwanil1907/dhwanil1907/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/dhwanil1907/dhwanil1907/output/github-contribution-grid-snake.svg">
 </picture>
 
 ###
