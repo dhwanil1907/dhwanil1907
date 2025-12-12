@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-kappa-swart.vercel.app/api?username=dhwanil1907&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=dhwanil1907&layout=compact&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhwanil1907&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhwanil1907&layout=compact&theme=dracula" height="150" />
 </div>
 
 ###
