@@ -1,94 +1,15 @@
-<!-- ─── PROFILE PICTURE + INTRO ───────────────────────────────────────────────── -->
-# Hi, I’m Dhwanil Ranpura! 👋
 
-Welcome to my GitHub profile! I’m a **Data Science undergraduate at San Jose State University** with hands-on experience in **analytics, machine learning, and data automation**. I enjoy turning messy real-world data into clear insights and building data products that drive real business impact.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhwanil-ranpura) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhwanil.ranpura@sjsu.edu) 
 
-<!-- ─── CONTACT BUTTONS ────────────────────────────────────────────────────────── -->
-<p align="left">
-  <a href="mailto:dhwanil.ranpura@sjsu.edu">
-    <img
-      src="https://img.shields.io/badge/Email-dhwanil.ranpura%40sjsu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-  <a href="https://linkedin.com/in/dhwanil-ranpura">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Dhwanil%20Ranpura-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-</p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dhwanil1907&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dhwanil1907&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhwanil1907&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dhwanil1907&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🔗 About Me
-
-- 🎓 **B.S. in Data Science** @ San Jose State University, Expected **May 2027**
-- 📊 Data Automation Intern with experience in **Power BI, KPI analytics, and workflow optimization**
-- 🧠 Strong foundation in **machine learning, forecasting, and statistical modeling**
-- 🤝 President of **Spartan Analytics**, leading workshops and data competitions
-
----
-
-# 💻 Tools & Languages
-
-### Languages
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
-
-### Data Science & ML
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-
-### Tools & Platforms
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git)
-
----
-
-## 💻 Featured Projects
-
-### 🚨 SafeRoute – AI Safety Navigation  
-**React, Firebase, Mapbox GL, Python**
-- Built an AI-driven route risk prediction system using spatio-temporal crime data  
-- Placed **3rd out of 91 teams** in a judged hackathon  
-- Improved prediction accuracy to **87%** and reduced alert latency by **40%**
-
-### 📈 Commercial Lease Market Forecasting  
-**Python, R, ARIMA, Regression**
-- Analyzed **194K+ lease records** to identify macroeconomic rent drivers  
-- Built forecasting models achieving **92% accuracy**  
-- Won **Overall Winner – ASA DataFest**
-
-### 🏦 SBA Loan Default Prediction System  
-**Python, Scikit-learn, Neural Networks**
-- Trained ML models on **899K loans** to predict default risk  
-- Designed profit-aware decision rules projecting **$6.8M business impact**  
-- Demonstrated tradeoffs between accuracy and real-world profitability
-
----
-
-## 📜 Experience & Leadership
-
-**Data Automation Intern – Language & Culture Worldwide**  
-- Automated workflows cutting manual effort by **30%+**  
-- Built Power BI dashboards for **10+ initiatives**  
-- Increased operational engagement by **15%**
-
-**President – Spartan Analytics (SJSU)**  
-- Scaled membership **60% (25 → 40 members)**  
-- Led Python & SQL workshops for **45+ students**  
-- Launched an annual data competition with **30+ participants**
-
----
-
-🔗 **Let’s connect, collaborate, and build data-driven solutions!**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
