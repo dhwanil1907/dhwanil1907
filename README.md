@@ -1,19 +1,94 @@
-<h1 align="center">Hi 👋, I'm Dhwanil Ranpura</h1>
-<h3 align="center">Turning data into stories that matter</h3>
+<!-- ─── PROFILE PICTURE + INTRO ───────────────────────────────────────────────── -->
+# Hi, I’m Dhwanil Ranpura! 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhwanil1907" alt="dhwanil1907" /></a> </p>
+Welcome to my GitHub profile! I’m a **Data Science undergraduate at San Jose State University** with hands-on experience in **analytics, machine learning, and data automation**. I enjoy turning messy real-world data into clear insights and building data products that drive real business impact.
 
-<h3 align="left">Connect with me:</h3>
+<!-- ─── CONTACT BUTTONS ────────────────────────────────────────────────────────── -->
 <p align="left">
-<a href="https://linkedin.com/in/dhwanil-ranpura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhwanil-ranpura" height="30" width="40" /></a>
-<a href="https://kaggle.com/dhwanilranpura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dhwanilranpura" height="30" width="40" /></a>
+  <a href="mailto:dhwanil.ranpura@sjsu.edu">
+    <img
+      src="https://img.shields.io/badge/Email-dhwanil.ranpura%40sjsu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+  <a href="https://linkedin.com/in/dhwanil-ranpura">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Dhwanil%20Ranpura-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhwanil1907&show_icons=true&locale=en&layout=compact" alt="dhwanil1907" /></p>
+## 🔗 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhwanil1907&show_icons=true&locale=en" alt="dhwanil1907" /></p>
+- 🎓 **B.S. in Data Science** @ San Jose State University, Expected **May 2027**
+- 📊 Data Automation Intern with experience in **Power BI, KPI analytics, and workflow optimization**
+- 🧠 Strong foundation in **machine learning, forecasting, and statistical modeling**
+- 🤝 President of **Spartan Analytics**, leading workshops and data competitions
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhwanil1907&" alt="dhwanil1907" /></p>
+---
+
+# 💻 Tools & Languages
+
+### Languages
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
+
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+
+### Tools & Platforms
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git)
+
+---
+
+## 💻 Featured Projects
+
+### 🚨 SafeRoute – AI Safety Navigation  
+**React, Firebase, Mapbox GL, Python**
+- Built an AI-driven route risk prediction system using spatio-temporal crime data  
+- Placed **3rd out of 91 teams** in a judged hackathon  
+- Improved prediction accuracy to **87%** and reduced alert latency by **40%**
+
+### 📈 Commercial Lease Market Forecasting  
+**Python, R, ARIMA, Regression**
+- Analyzed **194K+ lease records** to identify macroeconomic rent drivers  
+- Built forecasting models achieving **92% accuracy**  
+- Won **Overall Winner – ASA DataFest**
+
+### 🏦 SBA Loan Default Prediction System  
+**Python, Scikit-learn, Neural Networks**
+- Trained ML models on **899K loans** to predict default risk  
+- Designed profit-aware decision rules projecting **$6.8M business impact**  
+- Demonstrated tradeoffs between accuracy and real-world profitability
+
+---
+
+## 📜 Experience & Leadership
+
+**Data Automation Intern – Language & Culture Worldwide**  
+- Automated workflows cutting manual effort by **30%+**  
+- Built Power BI dashboards for **10+ initiatives**  
+- Increased operational engagement by **15%**
+
+**President – Spartan Analytics (SJSU)**  
+- Scaled membership **60% (25 → 40 members)**  
+- Led Python & SQL workshops for **45+ students**  
+- Launched an annual data competition with **30+ participants**
+
+---
+
+🔗 **Let’s connect, collaborate, and build data-driven solutions!**
