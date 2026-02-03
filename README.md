@@ -58,7 +58,7 @@ I enjoy transforming messy datasets into clear insights and building models that
 ### 🚨 SafeRoute – AI Safety Navigation
 **React · Firebase · Mapbox · Python**
 - AI-powered route risk prediction using spatio-temporal crime data  
-- 🏆 **3rd place out of 91 teams** in judged hackathon  
+- 🏆 **3rd place out of 91 teams** in the hackathon  
 - Achieved **87% model accuracy** and **40% lower alert latency**
 
 ### 📈 Commercial Lease Market Forecasting
@@ -78,11 +78,6 @@ I enjoy transforming messy datasets into clear insights and building models that
 ![](https://github-readme-stats.vercel.app/api?username=dhwanil1907&theme=dark&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=dhwanil1907&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhwanil1907&theme=dark&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dhwanil1907&theme=radical&margin-w=4)
 
 ---
 
