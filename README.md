@@ -6,7 +6,7 @@
 🤝 I'm looking for help with — scaling ML pipelines and MLOps best practices<br>
 🌱 I'm currently learning — how to scale pipelines and prevent them from breaking<br>
 💬 Ask me about — anything<br>
-⚡ Fun fact — I got into data science because I wanted to understand why my fantasy football picks kept losingSonnet 4.6
+⚡ Fun fact — I got into data science because I wanted to understand why my fantasy football picks kept losing
 
 
 ## 🌐 Socials:
