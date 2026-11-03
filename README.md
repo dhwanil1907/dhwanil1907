@@ -2,7 +2,7 @@
 
 **I find what the numbers are hiding.** Data Science at San Jose State (B.S., Dec 2027), building financial models, ML pipelines, and visualizations.
 
-[Portfolio](https://dhwanil-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/dhwanil-ranpura) · [Email](mailto:dranpura1907@gmail.com) · [Resume](https://dhwanil-portfolio-21s6nlv19-dhwanil1907s-projects.vercel.app/master_resume.pdf)
+[Portfolio](https://dhwanil-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/dhwanil-ranpura) · [Email](mailto:dranpura1907@gmail.com) · [Resume](https://dhwanil-portfolio.vercel.app/master_resume.pdf)
 
 **Open to:** data science / ML internships, especially fintech and applied ML. San Jose, CA, or remote.
 
