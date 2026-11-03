@@ -6,8 +6,6 @@
 
 **Open to:** data science / ML internships, especially fintech and applied ML. San Jose, CA, or remote.
 
-Currently building **Float**, a 90-day cash flow forecasting tool for small business owners.
-
 ---
 
 ## Featured Projects
