@@ -41,7 +41,7 @@
   </tr>
 </table>
 
-More on the [portfolio](https://dhwanil-portfolio-21s6nlv19-dhwanil1907s-projects.vercel.app), including SBA loan default prediction (0.97 ROC-AUC), a RAG system over SEC filings, and hackathon wins (SafeRoute, 3rd of 91 teams).
+More on the [portfolio](https://dhwanil-portfolio.vercel.app/), including SBA loan default prediction (0.97 ROC-AUC), a RAG system over SEC filings, and hackathon wins (SafeRoute, 3rd of 91 teams).
 
 ---
 
@@ -58,6 +58,7 @@ More on the [portfolio](https://dhwanil-portfolio-21s6nlv19-dhwanil1907s-project
 Also: Power BI, MLflow, Jira, LaTeX.
 
 ---
+
 ## GitHub Stats
 
 <p align="center">
@@ -68,7 +69,6 @@ Also: Power BI, MLflow, Jira, LaTeX.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dhwanil1907&theme=tokyonight&hide_border=true&background=0f172a&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="Contribution streak" />
 </p>
-
 
 ---
 
