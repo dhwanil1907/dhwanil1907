@@ -61,13 +61,14 @@ Also: Power BI, MLflow, Jira, LaTeX.
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dhwanil1907&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a78bfa&icon_color=a78bfa&hide_rank=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhwanil1907&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a78bfa&hide=jupyter%20notebook&langs_count=6" alt="Most used languages" />
+  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=dhwanil1907&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a78bfa&icon_color=a78bfa&hide_rank=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=dhwanil1907&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a78bfa&hide=jupyter%20notebook&langs_count=6" alt="Most used languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dhwanil1907&theme=tokyonight&hide_border=true&background=0f172a&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="Contribution streak" />
 </p>
+
 
 ---
 
