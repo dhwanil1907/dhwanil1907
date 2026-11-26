@@ -15,7 +15,7 @@
     <td width="50%" valign="top">
       <h3><a href="https://github.com/dhwanil1907/credit-risk-scorer">Home Credit Risk Scorer</a></h3>
       XGBoost + SHAP with rules-based policy guardrails.<br/><br/>
-      <b>0.779 ROC-AUC on 307K applications</b><br/><br/>
+      <b>0.758 ROC-AUC on 307K applications</b><br/><br/>
       <sub>Python · XGBoost · SHAP · FastAPI · Streamlit</sub>
     </td>
     <td width="50%" valign="top">
